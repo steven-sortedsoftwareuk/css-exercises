@@ -1,13 +1,14 @@
-#button {
+.main-button 
+.alt-button {
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
 
-.one {
+.main-button {
     background-color: black;
     color: white;
 }
 
-.two {
+.alt-button {
     background-color: yellow;
 }
